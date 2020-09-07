@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysq">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/mysq" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/mysq" recursive="false" />
+  </library>
+</component>
